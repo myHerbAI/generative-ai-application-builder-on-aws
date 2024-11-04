@@ -1,0 +1,16 @@
+name: generative-ai-application-builder-on-aws
+id: ari:cloud:compass:67089d24-a808-43fc-b21a-7240e68803c5:component/7650235b-1fb9-4e21-b2a8-9f79047496f0/fd98c5a5-1b47-47fd-9861-e6d429716390
+description: Generative AI Application Builder on AWS facilitates the development, rapid experimentation, and deployment of generative artificial intelligence (AI) applications without requiring deep experience in AI. The solution includes integrations with Amazon Bedrock and its included LLMs, such as Amazon Titan, and pre-built connectors for 3rd-party LLMs.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/myHerbAI/generative-ai-application-builder-on-aws
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
